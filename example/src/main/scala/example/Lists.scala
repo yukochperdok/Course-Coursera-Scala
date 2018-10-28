@@ -1,7 +1,5 @@
 package example
 
-import example.Lists.max
-
 
 object Lists {
 
